@@ -1,0 +1,6 @@
+.venv
+.vscode
+__pycache__
+fedimint-observer.db
+dfs
+.DS_Store
